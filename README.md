@@ -24,11 +24,7 @@ I enjoy building practical automation tools that reduce manual work and improve 
 - Automates repetitive procurement tasks using SAP GUI Scripting and Python.
 - Helps reduce manual PO processing effort.
 
-**3. Inventory Stock Coverage Analysis**
-- Calculates inventory coverage using available stock and daily consumption.
-- Identifies low-stock materials requiring attention.
-
-**4. SAP PO Email Attachment Automation**
+**3. SAP PO Email Attachment Automation**
 - Processes purchase order email attachments.
 - Supports automated document handling and SAP attachment workflows.
 
