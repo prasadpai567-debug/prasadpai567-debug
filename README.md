@@ -41,4 +41,4 @@ Bengaluru, India
 
 ### 🤝 Connect With Me
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: www.linkedin.com/in/prasad-pai-5a2077189
